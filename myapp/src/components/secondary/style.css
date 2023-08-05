@@ -1,0 +1,9 @@
+.secondary{
+    margin: 50px;
+    height: 150px;
+    background-color: antiquewhite;
+}
+
+.secondary p{
+    font-size: 15px;
+}
